@@ -14,13 +14,13 @@ Toda la aplicación se orquesta mediante Docker Compose, lo que facilita su desp
 - **Grafana** → Visualización y monitoreo de métricas.  
 - **Docker Compose** → Orquestación de servicios.
 
-### 1️⃣ Clonar el repositorio
+###  Clonar el repositorio
 
 
 git clone https://github.com/JuanJose123488/Gesti-n-de-Usuarios-con-FastAPI-PostgreSQL-Prometheus-y-Grafana.git
 cd user-crud-monitori
 
-### 2️⃣ Construir y levantar los contenedores
+###  Construir y levantar los contenedores
 docker compose up --build
 
 ### Endpoints principales
